@@ -66,7 +66,7 @@ function About() {
                 <div className="mt-4 space-y-2">
                   <div className="flex items-center">
                     <span className="w-32 text-cyan-400">Certifications:</span>
-                    <span className="text-gray-300">CISSP, CEH, CompTIA Security+</span>
+                    <span className="text-gray-300">Google Cybersecurity Professional Certification, IBM DevSecOps, Security Principles in Cloud COmputing from Google Cloud</span>
                   </div>
                   <div className="flex items-center">
                     <span className="w-32 text-cyan-400">Industries:</span>
