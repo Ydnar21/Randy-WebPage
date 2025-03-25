@@ -7,20 +7,20 @@ function Consulting() {
     {
       icon: Search,
       title: 'Security Assessments',
-      description: 'Comprehensive evaluation of your organization\'s security posture, including vulnerability assessments, penetration testing, and risk analysis.',
+      description: 'Comprehensive evaluation of your security posture, including vulnerability assessments, penetration testing, and risk analysis.',
       features: ['Network Security Analysis', 'Application Security Testing', 'Cloud Security Assessment', 'Compliance Gap Analysis']
     },
     {
       icon: FileCheck,
-      title: 'Security Strategy & Planning',
-      description: 'Development of tailored security roadmaps and strategies aligned with your business objectives and risk tolerance.',
+      title: 'Security Strategy & Planning & Implementation',
+      description: 'Development of tailored security roadmaps and strategies aligned with your objectives and risk tolerance.',
       features: ['Security Architecture Design', 'Policy Development', 'Compliance Planning', 'Risk Management Framework']
     },
     {
       icon: Users,
       title: 'Security Training',
-      description: 'Customized security awareness and training programs to strengthen your organization\'s human firewall.',
-      features: ['Employee Awareness Training', 'Executive Briefings', 'Incident Response Training', 'Social Engineering Defense']
+      description: 'Able to breakdown more complex ideas to help everyone understand what is going on',
+      features: ['Awareness', 'Incident Response Training', 'Social Engineering Defense']
     },
     {
       icon: Clock,

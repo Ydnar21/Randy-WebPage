@@ -4,11 +4,24 @@ import { Link } from 'react-router-dom';
 
 function Projects() {
   const projects = [
+    //Need to insert all Projects that I have done hehehe 
     {
-      title: 'Security Infrastructure Upgrade',
-      desc: 'Led a comprehensive security infrastructure upgrade for a Fortune 500 company, implementing state-of-the-art security measures and protocols to protect against modern cyber threats.',
-      tech: ['Network Security', 'Firewall Configuration', 'IDS/IPS'],
-      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80'
+      title: 'Calibrating Armoured Car - Battelle',
+      desc: 'Calibrating an armoured car to detect what road it was driving on to correctly account for the missile that was on top of th car.',
+      tech: ['CAN BUS', 'Automobiles'],
+      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80' //there is a picture for this in the picture folder
+    },
+    {
+      title: 'Calibrating Armoured Car - Battelle',
+      desc: 'Calibrating an armoured car to detect what road it was driving on to correctly account for the missile that was on top of th car.',
+      tech: ['CAN BUS', 'Automobiles'],
+      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80' //there is a picture for this in the picture folder
+    },
+    {
+      title: 'Calibrating Armoured Car - Battelle',
+      desc: 'Calibrating an armoured car to detect what road it was driving on to correctly account for the missile that was on top of th car.',
+      tech: ['CAN BUS', 'Automobiles'],
+      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80' //there is a picture for this in the picture folder
     },
     {
       title: 'Threat Detection System',

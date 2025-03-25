@@ -15,7 +15,7 @@ function About() {
           <div className="text-center mb-12">
             <Shield className="w-16 h-16 mx-auto mb-4 text-cyan-400" />
             <h1 className="text-4xl font-bold mb-4">About Me</h1>
-            <p className="text-xl text-gray-300">Dedicated Cybersecurity Professional</p>
+            <p className="text-xl text-gray-300">Randy Dickersbach - Diverse Cybersecurity Professional</p>
           </div>
 
           <div className="space-y-12">
@@ -61,7 +61,7 @@ function About() {
               </h2>
               <div className="bg-gray-700 p-6 rounded-lg">
                 <p className="text-gray-300">
-                  With over a decade of experience in cybersecurity, I've worked with organizations across various sectors to strengthen their security posture. My approach combines technical expertise with strategic thinking to deliver comprehensive security solutions that address both current and emerging threats.
+                  With about 5 years of new development of CyberSecurity experience, I've worked with organizations across various sectors to strengthen their security posture. My approach combines technical expertise with strategic thinking to deliver comprehensive security solutions that address both current and emerging threats.
                 </p>
                 <div className="mt-4 space-y-2">
                   <div className="flex items-center">
@@ -70,11 +70,11 @@ function About() {
                   </div>
                   <div className="flex items-center">
                     <span className="w-32 text-cyan-400">Industries:</span>
-                    <span className="text-gray-300">Finance, Healthcare, Technology</span>
+                    <span className="text-gray-300">TD Bank - Third Party Risk Assessments, CSC - Web Application Security, Square10 Technologies - Cyber Security Consulting, Battelle - Private Governement Contracting Company, Raytheon's Patriot Missle System - Cyber Engineer </span>
                   </div>
                   <div className="flex items-center">
                     <span className="w-32 text-cyan-400">Specialties:</span>
-                    <span className="text-gray-300">Penetration Testing, Security Architecture, Compliance</span>
+                    <span className="text-gray-300">Penetration Testing, Security Architecture, Compliance, Problem Solving</span>
                   </div>
                 </div>
               </div>

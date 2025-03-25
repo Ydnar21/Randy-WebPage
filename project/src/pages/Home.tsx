@@ -51,6 +51,7 @@ function Home() {
           <h2 className="text-3xl font-bold mb-12 text-center">Areas of Expertise</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {[
+              { icon: Lock, title: 'Scripting', desc: 'Can make efficient scripts that can be used to reduce the time spent on repeating tasks' },
               { icon: Lock, title: 'Network Security', desc: 'Implementing robust security protocols and network protection' },
               { icon: Server, title: 'System Hardening', desc: 'Strengthening system defenses against potential threats' },
               { icon: AlertCircle, title: 'Threat Detection', desc: 'Advanced monitoring and incident response' },
@@ -68,7 +69,7 @@ function Home() {
 
       {/* Footer */}
       <footer className="bg-gray-900 py-8 px-4 text-center text-gray-400">
-        <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Investing Spark. All rights reserved.</p>
       </footer>
     </div>
   );
